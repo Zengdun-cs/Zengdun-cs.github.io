@@ -15,8 +15,8 @@ My research interests primarily focus on Federated Learning and Distributed Opti
 Publication
 ======
 
-[FedLab: A Flexible Federated Learning Framework](https://www.jmlr.org/papers/volume24/22-0440/22-0440.pd)  
-**Dun Zeng**\*, Siqi Liang\*, Xiangjing Hu, Hui Wang, Zenglin Xu. Journal of Machine Learning Research (JMLR), 2023. [[Code](https://github.com/SMILELab-FL/FedLab)]
+[FedLab: A Flexible Federated Learning Framework](https://www.jmlr.org/papers/volume24/22-0440/22-0440.pd) [[Code](https://github.com/SMILELab-FL/FedLab)]  
+**Dun Zeng**\*, Siqi Liang\*, Xiangjing Hu, Hui Wang, Zenglin Xu. Journal of Machine Learning Research (JMLR), 2023. 
 
 [Stochastic Clustered Federated Learning](https://arxiv.org/abs/2303.00897)  
 **Dun Zeng**, Xiangjing Hu, Shiyu Liu, Yue Yu, Qifan Wang, Zenglin Xu, arXiv, 2023.
@@ -27,5 +27,5 @@ Siqi Liang, Jintao Huang, **Dun Zeng**, Junyuan Hong, Jiayu Zhou, Zenglin Xu, ar
 [A Survey of Trustworthy Federated Learning with Perspectives on Security, Robustness, and Privacy](https://arxiv.org/abs/2302.10637)  
 Yifei Zhang\*, **Dun Zeng**\*, Jinglong Luo\*, Zenglin Xu, Irwin King, arXiv, 2023.  
 
-[Aggregating Gradients in Encoded Domain for Federated Learning](https://arxiv.org/abs/2205.13216)  
+[Aggregating Gradients in Encoded Domain for Federated Learning](https://arxiv.org/abs/2205.13216)  [[Code](https://github.com/Zengdun-cs/Encoded-Gradient-Aggregation)]    
 **Dun Zeng**, Shiyu Liu, Siqi Liang, Zonghang Li, Hui Wang, Irwin King, Zenglin Xu, arXiv, 2022.
