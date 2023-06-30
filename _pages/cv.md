@@ -11,43 +11,52 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Ocean University of China, 2016-2020
+* Ph.D in Computer Science, University of Electronic Scient and Technology of China, 2020-2025 (expected)
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
+* Statistical Machine Intelligence Learning Laboratory, HITSZ
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
+* Peng Cheng Lab
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+  
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+
+[FedLab: A Flexible Federated Learning Framework](https://www.jmlr.org/papers/volume24/22-0440/22-0440.pd) [[Code](https://github.com/SMILELab-FL/FedLab)]  
+**Dun Zeng**\*, Siqi Liang\*, Xiangjing Hu, Hui Wang, Zenglin Xu. Journal of Machine Learning Research (JMLR), 2023. 
+
+[Stochastic Clustered Federated Learning](https://arxiv.org/abs/2303.00897)  
+**Dun Zeng**, Xiangjing Hu, Shiyu Liu, Yue Yu, Qifan Wang, Zenglin Xu, arXiv, 2023.
+
+[FedNoisy: Federated Noisy Label Learning Benchmark](https://arxiv.org/abs/2306.11650)  
+Siqi Liang, Jintao Huang, **Dun Zeng**, Junyuan Hong, Jiayu Zhou, Zenglin Xu, arXiv, 2023.
+
+[A Survey of Trustworthy Federated Learning with Perspectives on Security, Robustness, and Privacy](https://arxiv.org/abs/2302.10637)  
+Yifei Zhang\*, **Dun Zeng**\*, Jinglong Luo\*, Zenglin Xu, Irwin King, arXiv, 2023.  
+
+[Aggregating Gradients in Encoded Domain for Federated Learning](https://arxiv.org/abs/2205.13216)  [[Code](https://github.com/Zengdun-cs/Encoded-Gradient-Aggregation)]    
+**Dun Zeng**, Shiyu Liu, Siqi Liang, Zonghang Li, Hui Wang, Irwin King, Zenglin Xu, arXiv, 2022.
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <!-- <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+   -->
+
+Trustworthy Federated Learning: Concepts, Methods, Applications, and Beyond  
+Zenglin Xu, *Dun Zeng*, Jinglong Luo, Xinyu Fu, Yifei Zhang, Irwin King
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
