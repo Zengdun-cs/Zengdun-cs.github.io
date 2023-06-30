@@ -27,9 +27,6 @@ Research Experience
   
 Publications
 ======
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 
 [FedLab: A Flexible Federated Learning Framework](https://www.jmlr.org/papers/volume24/22-0440/22-0440.pd) [[Code](https://github.com/SMILELab-FL/FedLab)]  
 **Dun Zeng**\*, Siqi Liang\*, Xiangjing Hu, Hui Wang, Zenglin Xu. Journal of Machine Learning Research (JMLR), 2023. 
@@ -48,20 +45,6 @@ Yifei Zhang\*, **Dun Zeng**\*, Jinglong Luo\*, Zenglin Xu, Irwin King, arXiv, 20
 
 Presentations
 ======
-  <!-- <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-   -->
 
 June 2023 - "Trustworthy Federated Learning: Concepts, Methods, Applications, and Beyond." IJCNN tutorial, 2023.  
 Zenglin Xu, **Dun Zeng**, Jinglong Luo, Xinyu Fu, Yifei Zhang, Irwin King.
-
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
